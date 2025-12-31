@@ -47,13 +47,13 @@ Minimal dark UI with a glowing border, bottom accent bar, and live ticking time 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/digital-clock-ui.git
+   git clone https://github.com/javinarora05/digital_clock.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd digital-clock-ui
+   cd digital_clock
    ```
 
 3. Open `index.html` in your browser:
